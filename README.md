@@ -4,7 +4,7 @@
 > **사전 준비**
 > 1. Windows PC를 준비한다.
 > 2.chorme을 설치한다.
-**chorme이 없다면 [여기](https://www.google.com/chrome/)에서 Chrome을 설치한다.**
+>**chorme이 없다면 [여기](https://www.google.com/chrome/)에서 Chrome을 설치한다.**
 > 3. 인터넷에 연결되어 있는지 확인한다.
 > 4. 앱으로 설치할 웹사이트 주소를 준비한다.
 
